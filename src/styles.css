@@ -8,5 +8,6 @@ body {
 
 .fontTitle {
     font-family: 'Montserrat', sans-serif;
-
+    color: white;
+    text-transform: uppercase; /* para que todo este en mayuscula */
 }
