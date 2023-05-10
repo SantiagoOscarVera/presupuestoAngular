@@ -11,3 +11,7 @@ body {
     color: white;
     text-transform: uppercase; /* para que todo este en mayuscula */
 }
+
+.textError {
+    font-size: 1rem;
+}
